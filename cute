@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Arbitrary-yet-cute loading message.
+
+echo
+echo "Please wait, cuteness impending..."
+echo
+sleep 3
+cd heart
+./main.sh
+cd ..
+exit
