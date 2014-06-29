@@ -9,7 +9,7 @@ Introduction
 
 Cuteness, cuteness everywhere! Something I threw together whilst waiting for a flight - this simple set of scripts loops through a few pre-defined ASCII images.
 
-To run the app, simply execute the script in the root folder as follows:
+To run the app, simply execute the script in this repo's root folder as follows:
 
 ```bash:
 ./cute
